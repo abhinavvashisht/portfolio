@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f9f9f9;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.jumbotron {
+    background: linear-gradient(to right, #56CCF2, #2F80ED);
+    color: #fff;
+    padding: 100px 0;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.bg-light {
+    background-color: #fff;
+}
+
+.bg-dark {
+    background-color: #343a40;
+    color: #fff;
+}
+
+section {
+    padding: 60px 0;
+}
+
+.section-title {
+    font-size: 2.5rem;
+    color: #2F80ED;
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+}
